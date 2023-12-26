@@ -2,4 +2,4 @@
 bluetooth.device.default_name=Xperia 1 II
 
 # Touch
-ro.vendor.display.low_touch_rate=true
+ro.vendor.display.low_touch_rate=false
